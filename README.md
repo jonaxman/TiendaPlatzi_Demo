@@ -1,2 +1,2 @@
 # TiendaPlatzi_Demo
-Esta es una prueba para conocer el manejo de GitHub
+Esta es una prueba para conocer el manejo de GitHub, no te detengas y continua aprendiendo...
